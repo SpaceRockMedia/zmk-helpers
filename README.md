@@ -167,6 +167,7 @@ The following layouts are currently implemented.
 | `rolio46.h`              | 46+              | Rolio46 with 2 encoders                |
 | `sofle.h`                | 60               | Sofle                                  |
 | `totem.h`                | 38               | Totem                                  |
+| `zilpzalp.h`             | 28               | Zilpzalp                               |
 
 ### Unicode-characters and language collection
 
